@@ -1,8 +1,8 @@
-# EC-DDH (with ZKP) — Density Scenarios + Plots
+# EC-DDH (with ZKP)
 
 ## Quickstart (Windows PowerShell)
 ```powershell
-cd ecddh-sdv-density-plots
+cd sdv
 python -m venv .venv
 . .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
